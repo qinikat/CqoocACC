@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         刷课|重庆高等教育智慧教育平台|重庆智慧教育平台 cqooc.com www.cqooc.com
 // @namespace    https://github.com/qinikat
-// @version      0.1.0
+// @version      0.3.0
 // @description  重庆高教平台自动刷网课，不包含答题
 // @author       ikat易卡
 // @match        https://www.cqooc.com/*
