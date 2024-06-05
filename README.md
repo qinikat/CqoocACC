@@ -1,6 +1,6 @@
 # CqoocACC
 
-# 重庆高教 自动刷课脚本
+# 重庆高教 自动刷课脚本  cqooc.com Automated Course Completion
 
 此脚本适用于 **重庆高等教育智慧教育平台/重庆智慧教育平台**
 
