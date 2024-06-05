@@ -11,3 +11,6 @@
 加载后点击 **"点这里开始自动学习"** 按钮即可运行
 
 作者：ikat 易卡
+
+![](https://github.com/qinikat/CqoocACC/blob/master/Sample_Picture/run_test.png)
+
