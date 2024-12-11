@@ -33,7 +33,7 @@
       //弹出提示框
       alert('请在https://www.cqooc.com/下使用此脚本,并进入相应的课程')
       //跳转到https://www.cqooc.com/learn/mooc/structure
-      window.location.href = 'https://www.cqooc.com/my/learn'
+      //window.location.href = 'https://www.cqooc.com/my/learn'
       //返回false
       return false
     }
